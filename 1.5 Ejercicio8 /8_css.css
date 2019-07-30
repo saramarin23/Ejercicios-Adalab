@@ -1,0 +1,22 @@
+.download-link {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    color: #666;
+    border-bottom: 1px solid gray;
+    padding: 0 0 5px;
+}
+
+.download-link:hover {
+    color: blue;
+}
+
+.icon-type {
+    background: red;
+    position: absolute;
+    right: 0;
+    color: white;
+    font-size: .7em;
+    border-radius: 5px;
+    padding: 2px 4px;
+}
